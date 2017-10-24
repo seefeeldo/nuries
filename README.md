@@ -1,4 +1,14 @@
-# nuries
+# Nur Creative Studio is an open sourcing and decentralizing values based business 
+We are not yet open, nor decentralized, we are enroute to both. 
+
+We aspire to create opportunity for people to explore the world through their experience of beauty. And to support themselves doing so by providing a platform where they can create and exchange value between each other and the world at large. 
+
+Check out our trello board prototyping the decentralization: https://trello.com/b/CWtIB3C5/nur-jobs-central-station
+
+This github account contains our contacts and sources for our sales. Our design files and photographs. It's out goal to transparently operate the company to create evidence that a business that's open and generous can operate and be successful. We want to see more people dream and create and share. Enjoy!
+
+Here's why we started with a product called Nuries:
+
 Nuries - Shine a light within.
 
 We believe in human creativity in positively transforming our world and that our own personal transformation is the first step towards that. This is why Nuries exists. 
